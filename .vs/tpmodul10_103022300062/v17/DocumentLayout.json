@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\NASHBILLA NURFAZZA\\PRAKTIKUM KONSTRUKSI PL\\tpmodul10_103022300062\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC68A63-C263-4CC1-B4DF-A04E66021CCD}|tpmodul10_103022300062\\tpmodul10_103022300062.csproj|c:\\nashbilla nurfazza\\praktikum konstruksi pl\\tpmodul10_103022300062\\tpmodul10_103022300062\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC68A63-C263-4CC1-B4DF-A04E66021CCD}|tpmodul10_103022300062\\tpmodul10_103022300062.csproj|solutionrelative:tpmodul10_103022300062\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NASHBILLA NURFAZZA\\PRAKTIKUM KONSTRUKSI PL\\tpmodul10_103022300062\\tpmodul10_103022300062\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul10_103022300062\\Program.cs",
+              "ToolTip": "C:\\NASHBILLA NURFAZZA\\PRAKTIKUM KONSTRUKSI PL\\tpmodul10_103022300062\\tpmodul10_103022300062\\Program.cs",
+              "RelativeToolTip": "tpmodul10_103022300062\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T17:21:43.594Z",
+              "EditorCaption": ""
             }
           ]
         }
